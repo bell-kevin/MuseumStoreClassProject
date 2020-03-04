@@ -16,7 +16,7 @@ public class MuseumStoreClassProject {
         //stock inventory
         MuseumStore item1 = new MuseumStore("hoodie", "clothing", 10.5, 10);
         MuseumStore item2 = new MuseumStore("t-shirt", "clothing", 7.5, 25);
-        MuseumStore item3 = new MuseumStore("ball", "toy", 2.5, 50);
+        MuseumStore item3 = new MuseumStore("bouncy ball", "toy", 2.5, 50);
         MuseumStore item4 = new MuseumStore("dinosaur", "toy", 3.5, 25);
         MuseumStore item5 = new MuseumStore("pencil", "tool", 0.75, 100);
         MuseumStore item6 = new MuseumStore("eraser", "tool", 1.25, 100);
